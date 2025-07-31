@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-28 14:41:54
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-29 10:44:42
  * @FilePath: /next-ssr-web-template/src/server/setup/index.tsx
  * @Description: 初始化服务端组件

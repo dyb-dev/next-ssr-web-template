@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-27 20:53:28
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-27 20:57:46
  * @FilePath: /next-ssr-web-template/src/client/router/guard/index.ts
  * @Description: 路由守卫组件模块

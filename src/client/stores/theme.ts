@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 19:49:29
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-26 21:01:55
  * @FilePath: /next-ssr-web-template/src/client/stores/theme.ts
  * @Description: 主题状态管理

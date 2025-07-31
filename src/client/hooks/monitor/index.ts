@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-29 22:56:47
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-29 22:56:56
  * @FilePath: /next-ssr-web-template/src/client/hooks/monitor/index.ts
  * @Description: 监控相关hooks函数

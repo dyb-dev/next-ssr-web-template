@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-27 20:53:34
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-29 17:45:03
  * @FilePath: /next-ssr-web-template/src/client/router/guard/LoginGuard.tsx
  * @Description: 登录守卫组件

@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-29 20:35:44
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:21:26
  * @FilePath: /next-ssr-web-template/scripts/build.mjs
  * @Description: 启动 Next.js 构建产物入口

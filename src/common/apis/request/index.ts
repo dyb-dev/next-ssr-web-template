@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-18 20:09:55
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:10:02
  * @FilePath: /next-ssr-web-template/src/common/apis/request/index.ts
  * @Description: 封装请求模块

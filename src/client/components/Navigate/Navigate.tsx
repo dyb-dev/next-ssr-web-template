@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-28 01:22:27
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:04:08
  * @FilePath: /next-ssr-web-template/src/client/components/Navigate/Navigate.tsx
  * @Description: 导航组件

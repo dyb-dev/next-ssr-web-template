@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-30 10:56:24
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:03:55
  * @FilePath: /next-ssr-web-template/src/client/components/BackButton/BackButton.tsx
  * @Description: 返回按钮组件

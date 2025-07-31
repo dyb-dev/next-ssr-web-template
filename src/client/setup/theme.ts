@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-28 14:32:01
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-28 23:27:06
  * @FilePath: /next-ssr-web-template/src/client/setup/theme.ts
  * @Description: 初始化主题

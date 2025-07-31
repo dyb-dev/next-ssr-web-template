@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 19:47:03
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-21 19:55:39
  * @FilePath: /next-ssr-web-template/src/client/hooks/swr/index.ts
  * @Description: swr相关hooks函数

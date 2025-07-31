@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-16 17:13:54
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 11:21:30
  * @FilePath: /next-ssr-web-template/src/app/page.tsx
  * @Description: 首页

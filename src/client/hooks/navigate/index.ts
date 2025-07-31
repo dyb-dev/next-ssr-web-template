@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-27 21:53:48
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 10:55:10
  * @FilePath: /next-ssr-web-template/src/client/hooks/navigate/index.ts
  * @Description: 导航相关hooks函数

@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 20:01:23
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-21 20:04:41
  * @FilePath: /next-ssr-web-template/src/common/hooks/timer/index.ts
  * @Description: 时间控制相关hooks函数

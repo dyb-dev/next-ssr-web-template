@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-18 20:09:55
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-21 20:04:18
  * @FilePath: /next-ssr-web-template/src/common/apis/index.ts
  * @Description: 接口模块

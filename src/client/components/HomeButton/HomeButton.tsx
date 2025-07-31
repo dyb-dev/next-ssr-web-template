@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 19:44:27
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:03:59
  * @FilePath: /next-ssr-web-template/src/client/components/HomeButton/HomeButton.tsx
  * @Description: 首页按钮组件

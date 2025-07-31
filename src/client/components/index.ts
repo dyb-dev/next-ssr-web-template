@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 19:43:57
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 11:02:10
  * @FilePath: /next-ssr-web-template/src/client/components/index.ts
  * @Description: 组件模块

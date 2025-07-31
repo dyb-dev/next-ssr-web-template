@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-28 14:42:10
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-28 14:42:40
  * @FilePath: /next-ssr-web-template/src/server/setup/api.ts
  * @Description: 初始化接口配置

@@ -1,7 +1,7 @@
 /*
  * @Author: dyb-dev
  * @Date: 2025-07-11 22:53:52
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-31 17:57:06
  * @FilePath: /next-ssr-web-template/next.config.ts
  * @Description: Next.js 配置文件

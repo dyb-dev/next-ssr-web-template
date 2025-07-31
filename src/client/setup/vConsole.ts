@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-28 14:32:07
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-28 14:34:15
  * @FilePath: /next-ssr-web-template/src/client/setup/vConsole.ts
  * @Description: 初始化 VConsole 调试器

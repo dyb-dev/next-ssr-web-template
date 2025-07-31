@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-18 20:18:51
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:14:56
  * @FilePath: /next-ssr-web-template/src/common/utils/userInfo/index.ts
  * @Description: 用户信息相关工具函数

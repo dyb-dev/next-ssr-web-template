@@ -1,7 +1,7 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-21 20:18:36
- * @LastEditors: v_yanbgding
+ * @LastEditors: dyb-dev
  * @LastEditTime: 2025-07-30 22:06:44
  * @FilePath: /next-ssr-web-template/src/client/utils/device/index.ts
  * @Description: 设备相关工具函数

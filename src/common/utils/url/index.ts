@@ -1,8 +1,8 @@
 /*
- * @Author: v_yanbgding
+ * @Author: dyb-dev
  * @Date: 2025-07-18 20:18:51
- * @LastEditors: v_yanbgding
- * @LastEditTime: 2025-07-30 22:14:43
+ * @LastEditors: dyb-dev
+ * @LastEditTime: 2025-07-31 22:52:55
  * @FilePath: /next-ssr-web-template/src/common/utils/url/index.ts
  * @Description: url相关工具函数
  */
@@ -140,26 +140,42 @@ export const toAbsoluteUrl = (options: IToAbsoluteUrlOptions): string => {
 
     }
 
-    const _urlOrigin = trimUrlSlashes(urlOrigin, { trimStart: false })
+    const _urlOrigin = trimUrlSlashes(urlOrigin)
     const _basePath = trimUrlSlashes(basePath)
-    const _relativePath = trimUrlSlashes(relativePath, { trimEnd: false })
+    const _relativePath = trimUrlSlashes(relativePath)
 
-    const _tempList = []
-    _urlOrigin && _tempList.push(_urlOrigin)
-    _basePath && _tempList.push(_basePath)
-    _relativePath && _tempList.push(_relativePath)
+    let _url = [_urlOrigin, _basePath, _relativePath].filter(Boolean).join("/")
 
-    const _url = _tempList.join("/")
+    if (!isAbsoluteUrl(relativePath)) {
 
-    if (!version) {
-
-        return _url
+        _url = `/${_url}`
 
     }
 
-    return setUrlQueryValue(_url, "version", version, {})
+    if (version) {
+
+        _url = setUrlQueryValue(_url, "version", version, {})
+
+    }
+
+    return _url
 
 }
+
+/**
+ * FUN: 将资源 Url 相对路径转化为资源 Url 绝对路径
+ *
+ * @author dyb-dev
+ * @date 28/06/2024/  14:25:30
+ * @param {string} assetsRelativePath - 资源相对路径
+ * @returns {*}  {string} - 拼接后的资源绝对路径
+ */
+export const toAssetsAbsoluteUrl = (assetsRelativePath: string) =>
+    toAbsoluteUrl({
+        relativePath: assetsRelativePath,
+        urlOrigin: "",
+        basePath: process.env.NEXT_PUBLIC_BASE_PATH
+    })
 
 /**
  * FUN: 根据选项移除 URL 的首尾斜杠
