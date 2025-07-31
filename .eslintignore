@@ -1,0 +1,33 @@
+# 编辑目录和文件
+.idea
+.DS_Store
+.hbuilderx
+coverage
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw
+*.local
+
+# Logs文件
+logs
+*.log*
+
+# 项目文件
+certificates
+.next
+dist
+node_modules
+public
+.*
+*-lock.*
+out
+build
+*.tsbuildinfo
+
+# 不忽略的项目文件
+!.vscode
+!.prettierrc*
+!.stylelintrc*
+!.eslintrc*
