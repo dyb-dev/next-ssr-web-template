@@ -2,7 +2,7 @@
  * @Author: dyb-dev
  * @Date: 2025-07-29 16:13:30
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 16:30:56
+ * @LastEditTime: 2025-08-16 13:06:19
  * @FilePath: /next-ssr-web-template/src/client/hooks/async/index.ts
  * @Description: 异步任务相关hook
  */
@@ -66,7 +66,7 @@ export const useAsyncTask = (): IUseAsyncTaskReturn => {
 
                 setLoadStatus("success")
 
-                successMessage && message.success(successMessage, 3000)
+                successMessage && message.success(successMessage, 3)
 
                 return _result
 
@@ -75,7 +75,7 @@ export const useAsyncTask = (): IUseAsyncTaskReturn => {
 
                 setLoadStatus("fail")
                 const _error = error as Error
-                message.error(_error?.message || failMessage, 3000)
+                message.error(_error?.message || failMessage, 3)
 
             }
 
