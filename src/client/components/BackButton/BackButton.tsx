@@ -2,12 +2,10 @@
  * @Author: dyb-dev
  * @Date: 2025-07-30 10:56:24
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:03:55
+ * @LastEditTime: 2025-09-13 20:22:32
  * @FilePath: /next-ssr-web-template/src/client/components/BackButton/BackButton.tsx
  * @Description: 返回按钮组件
  */
-
-"use client"
 
 import { ArrowLeftOutlined } from "@ant-design/icons"
 import { Button } from "antd"

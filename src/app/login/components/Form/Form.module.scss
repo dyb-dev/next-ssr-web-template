@@ -1,0 +1,23 @@
+/*
+ * @Author: dyb-dev
+ * @Date: 2025-09-13 20:58:44
+ * @LastEditors: dyb-dev
+ * @LastEditTime: 2025-09-14 02:01:49
+ * @FilePath: /next-ssr-web-template/src/app/login/components/Form/Form.module.scss
+ * @Description: 表单样式
+ */
+
+.form {
+    :global(.ant-form-item) {
+        margin-bottom: 40px;
+
+        &:first-of-type {
+            margin-bottom: var(--form-item-margin-bottom);
+        }
+    }
+
+    &__actions {
+        display: flex;
+        gap: 0 12px;
+    }
+}

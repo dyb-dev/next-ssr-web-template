@@ -2,7 +2,7 @@
  * @Author: dyb-dev
  * @Date: 2025-07-18 15:58:19
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 11:11:38
+ * @LastEditTime: 2025-09-13 20:46:28
  * @FilePath: /next-ssr-web-template/src/app/error.tsx
  * @Description: 全局错误页面
  */

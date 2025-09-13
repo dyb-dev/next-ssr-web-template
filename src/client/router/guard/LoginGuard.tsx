@@ -2,12 +2,10 @@
  * @Author: dyb-dev
  * @Date: 2025-07-27 20:53:34
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 17:45:03
+ * @LastEditTime: 2025-09-13 20:30:07
  * @FilePath: /next-ssr-web-template/src/client/router/guard/LoginGuard.tsx
  * @Description: 登录守卫组件
  */
-
-"use client"
 
 import { usePathname } from "next/navigation"
 import { memo } from "react"
@@ -15,7 +13,7 @@ import { memo } from "react"
 import { Navigate } from "@/client/components"
 import { useUserInfoStore } from "@/client/stores"
 import { getCurrentUrlQuery } from "@/client/utils"
-import { LoadBox } from "@/server/components"
+import { LoadingWrapper } from "@/server/components"
 
 import type { ReactNode } from "react"
 
@@ -46,7 +44,7 @@ export const LoginGuard = memo(function LoginGuard ({ children }: Readonly<ILogi
 
         // 检测登录状态
         checkLogin()
-        return <LoadBox />
+        return <LoadingWrapper />
 
     }
 

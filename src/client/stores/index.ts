@@ -2,10 +2,12 @@
  * @Author: dyb-dev
  * @Date: 2025-07-21 19:49:29
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-21 19:49:53
+ * @LastEditTime: 2025-09-13 20:31:23
  * @FilePath: /next-ssr-web-template/src/client/stores/index.ts
  * @Description: store模块
  */
+
+"use client"
 
 /** 导出当前活动状态管理 */
 export * from "./activity"

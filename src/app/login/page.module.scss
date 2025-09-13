@@ -1,29 +1,23 @@
 /*
  * @Author: dyb-dev
- * @Date: 2025-07-20 17:23:01
+ * @Date: 2025-08-01 23:45:28
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 00:22:57
- * @FilePath: /next-ssr-web-template/src/app/test/page.scss
- * @Description: 测试页样式
+ * @LastEditTime: 2025-09-13 21:00:07
+ * @FilePath: /next-ssr-web-template/src/app/login/page.module.scss
+ * @Description: 登录页样式
  */
 
-.test {
+.login {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
     height: 100%;
-    padding: 0 10px;
+    padding: 0 50px;
 
     &__main {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
         width: 100%;
-
-        .next-logo {
-            margin-bottom: 16px;
-        }
+        max-width: 300px;
 
         &__title {
             margin-bottom: 8px;
@@ -36,11 +30,6 @@
             color: var(--color-text-secondary);
             font-size: 16px;
             text-align: center;
-        }
-
-        &__actions {
-            display: flex;
-            gap: 0 16px;
         }
     }
 }

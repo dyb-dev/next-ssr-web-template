@@ -2,12 +2,10 @@
  * @Author: dyb-dev
  * @Date: 2025-07-21 19:44:27
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:03:59
+ * @LastEditTime: 2025-09-13 20:29:08
  * @FilePath: /next-ssr-web-template/src/client/components/HomeButton/HomeButton.tsx
  * @Description: 首页按钮组件
  */
-
-"use client"
 
 import { ArrowRightOutlined } from "@ant-design/icons"
 import { Button } from "antd"

@@ -2,10 +2,12 @@
  * @Author: dyb-dev
  * @Date: 2025-07-21 19:45:18
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-08-16 13:01:21
+ * @LastEditTime: 2025-09-13 20:29:57
  * @FilePath: /next-ssr-web-template/src/client/hooks/index.ts
  * @Description: hook模块
  */
+
+"use client"
 
 /** 导出异步任务相关hook */
 export * from "./async"
