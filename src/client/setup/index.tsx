@@ -2,7 +2,7 @@
  * @Author: dyb-dev
  * @Date: 2025-07-28 14:31:20
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 17:53:05
+ * @LastEditTime: 2025-11-01 10:46:09
  * @FilePath: /next-ssr-web-template/src/client/setup/index.tsx
  * @Description: 初始化客户端组件
  */
@@ -23,8 +23,8 @@ import { ETheme, useThemeStore } from "@/client/stores"
 import { isClientEnv } from "@/common/utils"
 
 import { setupApi } from "./api"
+import { setupEruda } from "./eruda"
 import { setupTheme } from "./theme"
-import { setupVConsole } from "./vConsole"
 
 import type { ReactNode } from "react"
 
@@ -40,8 +40,8 @@ export const SetupClient = memo(function SetupClient ({ children }: Readonly<ISe
     // 为客户端环境时
     if (isClientEnv()) {
 
-        /** FUN: 初始化 VConsole 调试器 */
-        setupVConsole()
+        /** FUN: 初始化 eruda 调试器 */
+        setupEruda()
 
         /** FUN: 初始化接口配置 */
         setupApi()

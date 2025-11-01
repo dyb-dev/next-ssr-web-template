@@ -15,7 +15,7 @@ Next-SSR-Web-Template 是一个面向现代 Web 开发的高性能 SSR 应用模
 - **Sass 预处理**：采用 Dart Sass，支持模块化 SCSS，内置常用 mixin 和函数。
 - **智能数据流**：结合 axios+SWR 实现高效数据请求，zustand 管理状态，use-immer 保证数据不可变。
 - **实用工具集**：集成 dayjs、classnames、query-string 等常用工具库。
-- **移动端调试**：内置 vConsole，支持移动端日志与网络监控。
+- **移动端调试**：内置 Eruda，支持移动端日志与网络监控。
 - **代码质量保障**：配置 ESLint、Prettier、Stylelint，集成 husky 实现提交校验。
 - **HTTPS 支持**：本地开发可启用 HTTPS，便于调试需安全协议的浏览器 API。
 

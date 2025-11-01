@@ -2,7 +2,7 @@
  * @Author: dyb-dev
  * @Date: 2025-07-11 22:53:52
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-31 17:57:06
+ * @LastEditTime: 2025-10-30 23:32:12
  * @FilePath: /next-ssr-web-template/next.config.ts
  * @Description: Next.js 配置文件
  */
@@ -49,6 +49,16 @@ export default {
         resolveAlias: {
             "@": "./src"
         }
+    },
+    // SWC 编译器配置
+    compiler: {
+        // 移除 console 语句
+        removeConsole: isDevEnv()
+            ? false
+            : {
+                // 排除 error 和 warn 级别的 console 语句
+                exclude: ["error", "warn"]
+            }
     },
     // Scss 配置
     sassOptions: {

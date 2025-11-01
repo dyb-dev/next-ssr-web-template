@@ -1,0 +1,52 @@
+/*
+ * @Author: dyb-dev
+ * @Date: 2025-08-01 23:45:28
+ * @LastEditors: dyb-dev
+ * @LastEditTime: 2025-11-01 10:47:03
+ * @FilePath: /next-ssr-web-template/src/client/setup/eruda.ts
+ * @Description: 初始化 eruda 调试器
+ */
+
+import { isEnableDebug } from "../utils"
+
+/** LET: 是否初始化 */
+let _isSetup = false
+
+/**
+ * FUN: 初始化 eruda 调试器
+ *
+ * @author dyb-dev
+ * @date 2025-10-28 22:54:12
+ */
+export const setupEruda = () => {
+
+    /** 已经完成初始化时 */
+    if (_isSetup) {
+
+        return
+
+    }
+
+    // 未启用调试时
+    if (!isEnableDebug()) {
+
+        return
+
+    }
+
+    import("eruda")
+        .then(({ default: eruda }) => {
+
+            eruda.init()
+            window.eruda = eruda
+
+            _isSetup = true
+
+        })
+        .catch(error => {
+
+            console.error("eruda 加载失败", error)
+
+        })
+
+}
