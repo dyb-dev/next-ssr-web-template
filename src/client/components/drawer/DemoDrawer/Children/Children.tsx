@@ -10,7 +10,7 @@
 import { Button } from "antd"
 import { memo } from "react"
 
-import { useDrawer } from "@/client/components"
+import { useDrawerContext } from "@/client/components"
 
 import type { IShowDemoDrawerResult } from ".."
 
@@ -27,7 +27,7 @@ export const Children = memo(function Children (props: IChildrenProps) {
     const { desc } = props
 
     /** HOOKS: 使用抽屉上下文 */
-    const { loadStatus, close, result } = useDrawer<IShowDemoDrawerResult>()
+    const { loadStatus, close, result } = useDrawerContext<IShowDemoDrawerResult>()
 
     return (
         <div className="demo-drawer__children">

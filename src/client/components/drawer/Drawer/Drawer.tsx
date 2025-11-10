@@ -2,7 +2,7 @@
  * @Author: dyb-dev
  * @Date: 2025-09-12 19:41:02
  * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:32:00
+ * @LastEditTime: 2025-11-11 00:50:07
  * @FilePath: /next-ssr-web-template/src/client/components/drawer/Drawer/Drawer.tsx
  * @Description: 抽屉
  */
@@ -13,10 +13,9 @@ import { useImmer } from "use-immer"
 
 import { useAsyncTask } from "@/client/hooks"
 
-import { Provider } from "./context"
+import { DrawerProvider } from "./context"
 
-import type { IContext } from "./context"
-import type { IBaseResult, IDefaultProps, IDefaultResult } from "@/client/utils/component"
+import type { IBaseResult, IDefaultContext, IDefaultProps, IDefaultResult } from "@/client/utils/component"
 import type { DrawerProps } from "antd"
 
 /** 抽屉 Props */
@@ -64,7 +63,7 @@ export const Drawer = memo(function Drawer (props: IDrawerProps) {
     )
 
     /** MEMO: 传递给子孙组件的上下文值 */
-    const contextValue = useMemo<IContext<IDefaultResult>>(
+    const context = useMemo<IDefaultContext<IDefaultResult>>(
         () => ({
             loadStatus,
             result,
@@ -74,7 +73,7 @@ export const Drawer = memo(function Drawer (props: IDrawerProps) {
     )
 
     return (
-        <Provider value={contextValue}>
+        <DrawerProvider value={context}>
             <AntdDrawer
                 {...drawerProps}
                 onClose={() => close()}
@@ -94,7 +93,7 @@ export const Drawer = memo(function Drawer (props: IDrawerProps) {
 
                 }}
             />
-        </Provider>
+        </DrawerProvider>
     )
 
 })
