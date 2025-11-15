@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-05 21:15:10
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 21:19:24
- * @FilePath: /next-ssr-web-template/src/app/sitemap.ts
- * @Description: 站点地图配置
+ * @FileDesc: 站点地图配置
  */
 
 import type { MetadataRoute } from "next"

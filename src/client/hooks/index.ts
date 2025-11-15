@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 19:45:18
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-08 12:57:32
- * @FilePath: /next-ssr-web-template/src/client/hooks/index.ts
- * @Description: hook模块
+ * @FileDesc: hook模块
  */
 
 "use client"

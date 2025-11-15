@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-05 21:18:36
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 12:02:12
- * @FilePath: /next-ssr-web-template/src/app/robots.ts
- * @Description: 控制搜索引擎爬虫对网站的访问权限配置
+ * @FileDesc: 控制搜索引擎爬虫对网站的访问权限配置
  */
 
 import type { MetadataRoute } from "next"

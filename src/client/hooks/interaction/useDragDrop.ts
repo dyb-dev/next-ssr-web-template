@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 00:26:02
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:49:33
- * @FilePath: /next-ssr-web-template/src/client/hooks/interaction/useDragDrop.ts
- * @Description: 使用拖拽放置
+ * @FileDesc: 使用拖拽放置
  */
 
 import { useCallback } from "react"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-28 14:31:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-28 15:33:00
- * @FilePath: /next-ssr-web-template/src/client/setup/api.ts
- * @Description: 初始化接口配置
+ * @FileDesc: 初始化接口配置
  */
 
 import axios from "axios"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-28 14:32:01
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-28 23:27:06
- * @FilePath: /next-ssr-web-template/src/client/setup/theme.ts
- * @Description: 初始化主题
+ * @FileDesc: 初始化主题
  */
 
 import { ETheme, useThemeStore } from "@/client/stores"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:09:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:10:30
- * @FilePath: /next-ssr-web-template/src/common/apis/request/log.ts
- * @Description: 请求日志模块
+ * @FileDesc: 请求日志模块
  */
 
 import { isEnableDebug } from "@/client/utils"

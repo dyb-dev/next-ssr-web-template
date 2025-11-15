@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 23:28:33
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:45:38
- * @FilePath: /next-ssr-web-template/src/client/components/DraggableList/DraggableList.tsx
- * @Description: 可拖拽列表组件
+ * @FileDesc: 可拖拽列表组件
  */
 
 import { DndContext, PointerSensor, closestCenter, useSensor, useSensors } from "@dnd-kit/core"

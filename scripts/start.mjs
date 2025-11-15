@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-29 20:35:52
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 22:41:31
- * @FilePath: /next-ssr-web-template/scripts/start.mjs
- * @Description: 启动 Next.js 生产服务入口
+ * @FileDesc: 启动 Next.js 生产服务入口
  */
 
 import { execSync } from "child_process"

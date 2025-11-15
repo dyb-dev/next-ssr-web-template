@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 01:19:03
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:54:16
- * @FilePath: /next-ssr-web-template/src/client/utils/json/index.ts
- * @Description: json 相关工具函数
+ * @FileDesc: json 相关工具函数
  */
 
 import { saveAs } from "file-saver"

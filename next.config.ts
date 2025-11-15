@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-11 22:53:52
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-10-30 23:32:12
- * @FilePath: /next-ssr-web-template/next.config.ts
- * @Description: Next.js 配置文件
+ * @FileDesc: Next.js 配置
  */
 
 import { isDevEnv } from "@/common/utils/env"

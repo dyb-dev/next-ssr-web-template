@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:18:51
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:12:22
- * @FilePath: /next-ssr-web-template/src/common/utils/dateTime/index.ts
- * @Description: 日期时间相关工具函数
+ * @FileDesc: 日期时间相关工具函数
  */
 
 /**

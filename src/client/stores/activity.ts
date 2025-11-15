@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 19:49:29
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:06:01
- * @FilePath: /next-ssr-web-template/src/client/stores/activity.ts
- * @Description: 当前活动状态管理
+ * @FileDesc: 当前活动状态管理
  */
 
 // import { createJSONStorage, persist, subscribeWithSelector } from "zustand/middleware"

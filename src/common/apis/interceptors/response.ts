@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:09:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:08:34
- * @FilePath: /next-ssr-web-template/src/common/apis/interceptors/response.ts
- * @Description: 响应拦截器模块
+ * @FileDesc: 响应拦截器模块
  */
 
 import axios from "axios"

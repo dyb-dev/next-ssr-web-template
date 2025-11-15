@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 01:01:23
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:48:05
- * @FilePath: /next-ssr-web-template/src/server/components/EmptyWrapper/EmptyWrapper.tsx
- * @Description: 空状态包装组件
+ * @FileDesc: 空状态包装组件
  */
 
 import { Empty } from "antd"

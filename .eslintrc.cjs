@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-11 20:32:10
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:19:39
- * @FilePath: /next-ssr-web-template/.eslintrc.cjs
- * @Description: eslint 配置文件 注意：每次配置文件的更改，建议重启一下vscode，否则可能不会生效
+ * @FileDesc: eslint 配置 注意：每次配置的更改，建议重启一下编辑器，否则可能不会生效
  */
 
 module.exports = {

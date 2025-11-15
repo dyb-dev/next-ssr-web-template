@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-27 20:53:34
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:30:07
- * @FilePath: /next-ssr-web-template/src/client/router/guard/LoginGuard.tsx
- * @Description: 登录守卫组件
+ * @FileDesc: 登录守卫组件
  */
 
 import { usePathname } from "next/navigation"

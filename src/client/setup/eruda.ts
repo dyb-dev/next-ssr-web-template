@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-08-01 23:45:28
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-01 10:47:03
- * @FilePath: /next-ssr-web-template/src/client/setup/eruda.ts
- * @Description: 初始化 eruda 调试器
+ * @FileDesc: 初始化 eruda 调试器
  */
 
 import { isEnableDebug } from "../utils"

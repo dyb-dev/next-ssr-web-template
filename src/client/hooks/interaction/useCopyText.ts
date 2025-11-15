@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 00:26:48
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:49:26
- * @FilePath: /next-ssr-web-template/src/client/hooks/interaction/useCopyText.ts
- * @Description: 使用复制文本
+ * @FileDesc: 使用复制文本
  */
 
 import useApp from "antd/es/app/useApp"

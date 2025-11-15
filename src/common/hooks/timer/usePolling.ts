@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-11-08 12:57:57
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-08 12:58:06
- * @FilePath: /next-ssr-web-template/src/common/hooks/timer/usePolling.ts
- * @Description: 使用轮询器
+ * @FileDesc: 使用轮询器
  */
 
 /** 使用轮询器返回值 */

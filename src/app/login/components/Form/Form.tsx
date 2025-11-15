@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 20:58:38
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-14 01:34:13
- * @FilePath: /next-ssr-web-template/src/app/login/components/Form/Form.tsx
- * @Description: 表单
+ * @FileDesc: 表单
  */
 
 import { ArrowRightOutlined, LockOutlined, UserOutlined } from "@ant-design/icons"

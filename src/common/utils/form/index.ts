@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:18:51
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:13:07
- * @FilePath: /next-ssr-web-template/src/common/utils/form/index.ts
- * @Description: 表单相关工具函数
+ * @FileDesc: 表单相关工具函数
  */
 
 /** 导出身份证相关工具函数 */

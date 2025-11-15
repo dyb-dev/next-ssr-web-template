@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 19:47:03
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:04:59
- * @FilePath: /next-ssr-web-template/src/client/hooks/swr/activity.ts
- * @Description: 本次活动swr相关hooks函数
+ * @FileDesc: 本次活动swr相关hooks函数
  */
 
 import useSWR from "swr"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 19:41:02
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-11 00:51:19
- * @FilePath: /next-ssr-web-template/src/client/components/drawer/Drawer/context.tsx
- * @Description: 抽屉上下文
+ * @FileDesc: 抽屉上下文
  */
 
 import { createContext, useContext } from "react"

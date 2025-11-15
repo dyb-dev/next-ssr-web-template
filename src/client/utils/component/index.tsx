@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 18:10:27
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-11 00:50:21
- * @FilePath: /next-ssr-web-template/src/client/utils/component/index.tsx
- * @Description: 组件相关工具函数
+ * @FileDesc: 组件相关工具函数
  */
 
 import { useEffect } from "react"

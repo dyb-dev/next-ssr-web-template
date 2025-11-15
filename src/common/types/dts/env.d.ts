@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:54:53
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 21:59:48
- * @FilePath: /next-ssr-web-template/src/common/types/dts/env.d.ts
- * @Description: 环境变量 类型声明补充文件
+ * @FileDesc: 环境变量 类型声明补充文件
  */
 
 declare namespace NodeJS {

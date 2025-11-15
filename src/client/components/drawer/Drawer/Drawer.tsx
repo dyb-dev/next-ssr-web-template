@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 19:41:02
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-11 00:50:07
- * @FilePath: /next-ssr-web-template/src/client/components/drawer/Drawer/Drawer.tsx
- * @Description: 抽屉
+ * @FileDesc: 抽屉
  */
 
 import { Drawer as AntdDrawer } from "antd"

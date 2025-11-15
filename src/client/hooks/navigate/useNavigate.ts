@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-11-08 12:51:42
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-08 12:51:53
- * @FilePath: /next-ssr-web-template/src/client/hooks/navigate/useNavigate.ts
- * @Description: 使用路由导航
+ * @FileDesc: 使用路由导航
  */
 
 import { useRouter } from "next/navigation"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-13 00:53:14
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-14 01:53:25
- * @FilePath: /next-ssr-web-template/src/server/components/LoadingWrapper/LoadingWrapper.tsx
- * @Description: 加载中包装组件
+ * @FileDesc: 加载中包装组件
  */
 
 import { Spin } from "antd"

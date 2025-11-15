@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:18:38
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-21 20:05:48
- * @FilePath: /next-ssr-web-template/src/common/types/dts/api.d.ts
- * @Description: api 类型声明补充文件
+ * @FileDesc: api 类型声明补充文件
  */
 
 import type { AxiosResponse } from "axios"

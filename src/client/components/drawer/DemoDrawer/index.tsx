@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 21:49:29
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:24:23
- * @FilePath: /next-ssr-web-template/src/client/components/drawer/DemoDrawer/index.tsx
- * @Description: Demo 抽屉
+ * @FileDesc: Demo 抽屉
  */
 
 import { showDrawer } from "@/client/components"

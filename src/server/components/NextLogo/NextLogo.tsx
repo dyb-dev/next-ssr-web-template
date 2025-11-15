@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 19:52:30
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 10:44:32
- * @FilePath: /next-ssr-web-template/src/server/components/NextLogo/NextLogo.tsx
- * @Description: NextLogo 组件
+ * @FileDesc: NextLogo 组件
  */
 
 import { memo } from "react"

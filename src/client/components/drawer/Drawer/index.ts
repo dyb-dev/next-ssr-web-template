@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 19:54:33
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:21:57
- * @FilePath: /next-ssr-web-template/src/client/components/drawer/Drawer/index.ts
- * @Description: 抽屉
+ * @FileDesc: 抽屉
  */
 
 /** 导出 `抽屉` */

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:13:34
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:10:53
- * @FilePath: /next-ssr-web-template/src/common/constants/userInfo.ts
- * @Description: 用户信息常量模块
+ * @FileDesc: 用户信息常量模块
  */
 
 import { ECertificatesType, EGenderType } from "@/common/types"

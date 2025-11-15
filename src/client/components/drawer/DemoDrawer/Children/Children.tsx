@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-09-12 21:49:20
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:22:45
- * @FilePath: /next-ssr-web-template/src/client/components/drawer/DemoDrawer/Children/Children.tsx
- * @Description: 子组件
+ * @FileDesc: 子组件
  */
 
 import { Button } from "antd"

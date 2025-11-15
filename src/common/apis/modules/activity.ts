@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:09:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:09:08
- * @FilePath: /next-ssr-web-template/src/common/apis/modules/activity.ts
- * @Description: 本次活动接口模块
+ * @FileDesc: 本次活动接口模块
  */
 
 import axios from "axios"

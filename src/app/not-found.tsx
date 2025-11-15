@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-16 18:05:24
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:36:59
- * @FilePath: /next-ssr-web-template/src/app/not-found.tsx
- * @Description: 全局404页面
+ * @FileDesc: 全局404页面
  */
 
 import { Result } from "antd"

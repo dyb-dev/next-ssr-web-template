@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-28 01:22:27
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:29:16
- * @FilePath: /next-ssr-web-template/src/client/components/Navigate/Navigate.tsx
- * @Description: 导航组件
+ * @FileDesc: 导航组件
  */
 
 import { memo, useEffect } from "react"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-16 17:13:54
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:46:45
- * @FilePath: /next-ssr-web-template/src/app/page.tsx
- * @Description: 首页
+ * @FileDesc: 首页
  */
 
 import { ArrowRightOutlined, GithubOutlined } from "@ant-design/icons"

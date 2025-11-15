@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:09:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:10:02
- * @FilePath: /next-ssr-web-template/src/common/apis/request/index.ts
- * @Description: 封装请求模块
+ * @FileDesc: 封装请求模块
  */
 
 import axios from "axios"

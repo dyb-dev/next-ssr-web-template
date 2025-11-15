@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-11-08 12:49:51
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-08 12:50:02
- * @FilePath: /next-ssr-web-template/src/client/hooks/async/useAsyncTask.ts
- * @Description: 使用异步任务执行器
+ * @FileDesc: 使用异步任务执行器
  */
 
 import useApp from "antd/es/app/useApp"

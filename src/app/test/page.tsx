@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 22:33:54
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 19:41:48
- * @FilePath: /next-ssr-web-template/src/app/test/page.tsx
- * @Description: 测试页
+ * @FileDesc: 测试页
  */
 
 import { memo } from "react"

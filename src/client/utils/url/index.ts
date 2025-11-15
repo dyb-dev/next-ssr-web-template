@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 20:26:59
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:08:03
- * @FilePath: /next-ssr-web-template/src/client/utils/url/index.ts
- * @Description: url相关工具函数
+ * @FileDesc: url相关工具函数
  */
 
 import queryString from "query-string"

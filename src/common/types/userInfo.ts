@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 14:57:14
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:11:38
- * @FilePath: /next-ssr-web-template/src/common/types/userInfo.ts
- * @Description: 用户信息类型模块
+ * @FileDesc: 用户信息类型模块
  */
 
 /** 性别类型枚举 */

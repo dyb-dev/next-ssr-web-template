@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:18:51
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-30 22:08:12
- * @FilePath: /next-ssr-web-template/src/client/utils/view/index.ts
- * @Description: 视图相关工具函数
+ * @FileDesc: 视图相关工具函数
  */
 
 /**

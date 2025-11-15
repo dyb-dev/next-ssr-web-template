@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-27 20:49:08
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 10:43:32
- * @FilePath: /next-ssr-web-template/src/client/router/index.tsx
- * @Description: 初始化路由组件
+ * @FileDesc: 初始化路由组件
  */
 
 "use client"

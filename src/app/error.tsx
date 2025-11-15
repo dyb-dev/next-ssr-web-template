@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 15:58:19
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:46:28
- * @FilePath: /next-ssr-web-template/src/app/error.tsx
- * @Description: 全局错误页面
+ * @FileDesc: 全局错误页面
  */
 
 "use client"

@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-21 20:12:31
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-13 20:33:49
- * @FilePath: /next-ssr-web-template/src/client/utils/index.ts
- * @Description: 工具函数模块
+ * @FileDesc: 工具函数模块
  */
 
 "use client"

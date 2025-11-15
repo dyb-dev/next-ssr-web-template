@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-27 18:14:26
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-09-14 01:40:28
- * @FilePath: /next-ssr-web-template/src/app/login/page.tsx
- * @Description: 登录页
+ * @FileDesc: 登录页
  */
 
 import { memo } from "react"

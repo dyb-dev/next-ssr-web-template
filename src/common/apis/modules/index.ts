@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-18 20:09:55
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-21 20:03:43
- * @FilePath: /next-ssr-web-template/src/common/apis/modules/index.ts
- * @Description: 接口模块
+ * @FileDesc: 接口模块
  */
 
 /** 导出本次活动相关接口 */

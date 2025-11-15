@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-16 17:12:23
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-07-29 17:50:23
- * @FilePath: /next-ssr-web-template/src/app/layout.tsx
- * @Description: 根布局
+ * @FileDesc: 根布局
  */
 
 import { memo } from "react"

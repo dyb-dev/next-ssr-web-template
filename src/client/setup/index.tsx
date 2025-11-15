@@ -1,10 +1,5 @@
 /*
- * @Author: dyb-dev
- * @Date: 2025-07-28 14:31:20
- * @LastEditors: dyb-dev
- * @LastEditTime: 2025-11-01 10:46:09
- * @FilePath: /next-ssr-web-template/src/client/setup/index.tsx
- * @Description: 初始化客户端组件
+ * @FileDesc: 初始化客户端组件
  */
 
 "use client"
