@@ -1,6 +1,6 @@
 {
     "name": "next-ssr-web-template",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "description": "基于`Next.js`搭建的 SSR Web 模板",
     "author": "dyb-dev",
     "license": "MIT",
@@ -28,7 +28,7 @@
         "directory": "https://github.com/dyb-dev/next-ssr-web-template"
     },
     "devDependencies": {
-        "@dyb-dev/eslint-config": "^0.3.0",
+        "@dyb-dev/eslint-config": "^0.4.0",
         "@dyb-dev/prettier-config": "^0.0.5",
         "@dyb-dev/project-cli": "^0.0.10",
         "@dyb-dev/stylelint-config": "^0.0.6",
