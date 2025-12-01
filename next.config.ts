@@ -61,9 +61,9 @@ export default {
         implementation: "sass-embedded",
         // Scss 全局引入
         additionalData: `
-            @use "./src/common/styles/scss-var.scss" as *;
-            @use "./src/common/styles/mixins/index.scss" as *;
-            @use "./src/common/styles/funs/index.scss" as *;
+            @use "@/common/styles/scss-var.scss" as *;
+            @use "@/common/styles/mixins/index.scss" as *;
+            @use "@/common/styles/funs/index.scss" as *;
         `
     },
     // 图片配置
