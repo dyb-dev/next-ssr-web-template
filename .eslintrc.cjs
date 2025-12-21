@@ -3,5 +3,5 @@
  */
 
 module.exports = {
-    extends: ["@dyb-dev/eslint-config", "plugin:@next/next/core-web-vitals"]
+    extends: ["@dyb-dev/eslint-config/next"]
 }
