@@ -1,6 +1,6 @@
 {
     "name": "next-ssr-web-template",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "description": "基于`Next.js`搭建的 SSR Web 模板",
     "author": "dyb-dev",
     "license": "MIT",
