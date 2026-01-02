@@ -25,6 +25,10 @@ public
 out
 build
 *.tsbuildinfo
+*.css
+*.less
+*.scss
+*.html
 
 # 不忽略的项目文件
 !.vscode

@@ -3,8 +3,10 @@
  */
 
 import { CERTIFICATE_CONFIG_LIST, GENDER_CONFIG_LIST } from "@/common/constants"
-import { ECertificatesType, EGenderType } from "@/common/types"
+import { EGenderType } from "@/common/types"
 import { isIdentityCard } from "@/common/utils"
+
+import type { ECertificatesType } from "@/common/types"
 
 /**
  * FUN: 获取性别描述

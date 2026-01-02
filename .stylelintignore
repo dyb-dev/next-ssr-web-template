@@ -22,12 +22,16 @@ node_modules
 public
 out
 build
+LICENSE
 *.tsbuildinfo
 .*
 *-lock.*
 *.json
 *.yaml
 *.md
+*.tsx
 *.ts
 *.d.ts
 *.*js
+*.html
+*.ico

@@ -2,9 +2,9 @@
  * @FileDesc: url相关工具函数
  */
 
-import queryString from "query-string"
-
 import { getBaseUrl, getUrlQuery, getUrlQueryValue, mergeUrlQuery, setUrlQueryValue } from "@/common/utils"
+
+import type queryString from "query-string"
 
 /**
  * FUN: 获取当前 URL 网址
